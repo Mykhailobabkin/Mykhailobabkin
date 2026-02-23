@@ -21,8 +21,11 @@ Focused on automation, video intelligence, and developer tooling.
 
 ---
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mykhailobabkin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=Mykhailobabkin&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mykhailobabkin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=Mykhailobabkin&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 </div>
