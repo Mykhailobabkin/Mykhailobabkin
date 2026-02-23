@@ -1,6 +1,6 @@
 <div align="center">
 
-# Misha Babkin
+# Mykhailo Babkin
 
 **Full-Stack Developer · AI Products · Toronto**
 
