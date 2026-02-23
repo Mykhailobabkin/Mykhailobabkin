@@ -28,8 +28,8 @@
 ### `> stats`
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mykhailobabkin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykhailobabkin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mykhailobabkin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mykhailobabkin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
 </div>
 
 <!-- Streak -->
@@ -41,9 +41,9 @@
 ### `> contributions`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailo-Babkin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailo-Babkin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailo-Babkin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailobabkin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailobabkin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mykhailobabkin/Mykhailobabkin/output/github-snake-dark.svg" />
 </picture>
 
 ---
