@@ -52,3 +52,7 @@ I build AI products end-to-end — from architecture and technology selection th
 </table>
 
 </div>
+
+## Project documentation
+
+[Documentation](docs/README.md) · [Project context](docs/project.md) · [Agent guide](CLAUDE.md) · [Changelog](CHANGELOG.md)
