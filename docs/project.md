@@ -2,7 +2,7 @@
 title: "GitHub Profile"
 status: active
 created: 2026-09-06
-last_updated: 2026-09-06
+last_updated: 2026-09-16
 tags: [project-documentation]
 ---
 
@@ -12,13 +12,15 @@ Public GitHub profile presentation.
 
 ## Current state
 
-Repository structure reviewed on 2026-09-06. This documentation pass does not verify live services or release readiness.
+README.md is the public profile. It introduces software engineering work in CRM integrations, reporting and workflow automation, with links to two anonymised client case studies and the public Claude Power-Ups repository. Client code stays private.
 
-README.md is the product; .github/ stores repository automation.
+`assets/profile-banner.png` contains the approved green-and-ivory banner used in the profile header. `.github/` stores repository automation.
 
 ## Decisions
 
-Keep project knowledge with source code; retain personal knowledge outside this repository until its private migration.
+- Keep profile copy consistent with the website and LinkedIn positioning.
+- Describe completed work and remaining rollout steps separately. Do not introduce unverified performance or sales figures.
+- Keep personal knowledge and private commercial context outside this public repository.
 
 ## Open questions
 

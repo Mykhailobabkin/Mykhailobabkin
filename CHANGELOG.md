@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Reworked the public profile around CRM integrations, reporting and automation, with a matching banner and two client case studies. Replaced the older product-management introduction, broad product list and activity widgets with selected work and a clear contact route.
+
 - **One editable agent guide.** Project instructions now live in AGENTS.md with compatibility links for other tools; duplicated shared conventions were removed. Shared Git checks and automatically refreshed CI checks replace the old per-repo policy bundle. Application behavior is unchanged.
 - **Shared documentation checks.** Added model-neutral rule entry points, staged-file checks and CI validation; consolidated current project navigation. Application behaviour is unchanged.
 
