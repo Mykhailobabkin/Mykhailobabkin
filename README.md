@@ -26,7 +26,7 @@ Python, TypeScript, React, Next.js, Supabase, n8n and CRM APIs. The choice depen
 
 ## Open source
 
-[Claude Power-Ups](https://github.com/Mykhailobabkin/claude-powerups): skills and plugins for Claude Code, including YouTube transcript analysis and Obsidian workflows.
+[Claude Power-Ups](https://github.com/babkin-dev/claude-powerups): skills and plugins for Claude Code, including YouTube transcript analysis and Obsidian workflows.
 
 Most client code is private. The case studies explain what I built, the decisions behind it and the remaining limitations.
 
