@@ -2,13 +2,22 @@
 title: "GitHub Profile"
 status: active
 created: 2026-09-06
-last_updated: 2026-09-16
+last_updated: 2026-11-07
 tags: [project-documentation]
+area: personal
+client: "personal"
+purpose: "Misha's public GitHub profile: README, banner and links to case studies and public repositories."
+work_here:
+  - "profile README copy"
+  - "profile banner"
+  - "case-study and repository links"
+not_here:
+  - "blog posts and the babkin.dev site"
 ---
 
 # GitHub Profile
 
-Public GitHub profile presentation.
+Misha's public GitHub profile presentation.
 
 ## Current state
 
